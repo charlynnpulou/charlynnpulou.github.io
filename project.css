@@ -1,0 +1,21 @@
+table {
+	width:80%;
+	margin: auto;
+	border: yellow solid 2px;
+	border-collapse:collapse;
+	color: yellow;
+}
+
+th,td {
+	border: yellow solid 2px;
+	font-family: Chela One;
+	color: yellow;
+}
+
+#col1{
+	width:80%;
+}
+
+#col2,#col3 {
+	width: 10%;
+}

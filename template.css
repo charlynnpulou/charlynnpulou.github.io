@@ -1,0 +1,65 @@
+body{
+	background-image: url(sky.png);
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: repeat;
+}
+
+.topnav {
+	color:yellow;
+	margin:5px;
+	font-size: 1.4em;
+}
+
+.topnav:hover{
+	color:white;
+	margin: 5px;
+	font-size: 1.4em; 
+	text-decoration: none;
+ }
+
+ #navtop {
+ 	text-align: right;
+ }
+
+#detail {
+	font-family: Chela one;
+	font-size: 2.5em;
+	text-shadow: 7px 2px 2px black;
+	border: 10px solid yellow;
+	color:yellow;
+	outline-style:groove;
+	outline-color:black;
+	padding-left: 40px;
+	padding-right: 40px
+	width:100px;
+	margin: 50px;
+}
+
+#goofy {
+	color: yellow;
+	letter-spacing: 3px;
+	font-family: Chela one;
+	border: 10px solid yellow;
+	padding: 15px;
+	margin: 70px;
+	width: 80%;
+	outline-style: groove;
+	outline-color: black;
+	overflow: auto;
+}
+
+h1 {
+	text-align: center;
+	border-style: groove;
+	border: 10px solid yellow;
+	margin: auto;
+	width: 90%;
+}
+
+img{
+	float: left;
+	margin-right: 20px;
+}
+
